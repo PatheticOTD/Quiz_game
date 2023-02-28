@@ -1,0 +1,2 @@
+1.print "Hello world"_2.Print("Hello world")_3.print("Hello world")
+1.Через try и exept_2.Через if и else_3.У вас появлялись ошибки?
