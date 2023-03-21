@@ -1,0 +1,16 @@
+        CCCCCCCCCCCCC     OOOOOOOOO     RRRRRRRRRRRRRRRRR   RRRRRRRRRRRRRRRRR   EEEEEEEEEEEEEEEEEEEEEE        CCCCCCCCCCCCCTTTTTTTTTTTTTTTTTTTTTTT !!! 
+     CCC::::::::::::C   OO:::::::::OO   R::::::::::::::::R  R::::::::::::::::R  E::::::::::::::::::::E     CCC::::::::::::CT:::::::::::::::::::::T!!:!!
+   CC:::::::::::::::C OO:::::::::::::OO R::::::RRRRRR:::::R R::::::RRRRRR:::::R E::::::::::::::::::::E   CC:::::::::::::::CT:::::::::::::::::::::T!:::!
+  C:::::CCCCCCCC::::CO:::::::OOO:::::::ORR:::::R     R:::::RRR:::::R     R:::::REE::::::EEEEEEEEE::::E  C:::::CCCCCCCC::::CT:::::TT:::::::TT:::::T!:::!
+ C:::::C       CCCCCCO::::::O   O::::::O  R::::R     R:::::R  R::::R     R:::::R  E:::::E       EEEEEE C:::::C       CCCCCCTTTTTT  T:::::T  TTTTTT!:::!
+C:::::C              O:::::O     O:::::O  R::::R     R:::::R  R::::R     R:::::R  E:::::E             C:::::C                      T:::::T        !:::!
+C:::::C              O:::::O     O:::::O  R::::RRRRRR:::::R   R::::RRRRRR:::::R   E::::::EEEEEEEEEE   C:::::C                      T:::::T        !:::!
+C:::::C              O:::::O     O:::::O  R:::::::::::::RR    R:::::::::::::RR    E:::::::::::::::E   C:::::C                      T:::::T        !:::!
+C:::::C              O:::::O     O:::::O  R::::RRRRRR:::::R   R::::RRRRRR:::::R   E:::::::::::::::E   C:::::C                      T:::::T        !:::!
+C:::::C              O:::::O     O:::::O  R::::R     R:::::R  R::::R     R:::::R  E::::::EEEEEEEEEE   C:::::C                      T:::::T        !:::!
+C:::::C              O:::::O     O:::::O  R::::R     R:::::R  R::::R     R:::::R  E:::::E             C:::::C                      T:::::T        !!:!!
+ C:::::C       CCCCCCO::::::O   O::::::O  R::::R     R:::::R  R::::R     R:::::R  E:::::E       EEEEEE C:::::C       CCCCCC        T:::::T         !!! 
+  C:::::CCCCCCCC::::CO:::::::OOO:::::::ORR:::::R     R:::::RRR:::::R     R:::::REE::::::EEEEEEEE:::::E  C:::::CCCCCCCC::::C      TT:::::::TT           
+   CC:::::::::::::::C OO:::::::::::::OO R::::::R     R:::::RR::::::R     R:::::RE::::::::::::::::::::E   CC:::::::::::::::C      T:::::::::T       !!! 
+     CCC::::::::::::C   OO:::::::::OO   R::::::R     R:::::RR::::::R     R:::::RE::::::::::::::::::::E     CCC::::::::::::C      T:::::::::T      !!:!!
+        CCCCCCCCCCCCC     OOOOOOOOO     RRRRRRRR     RRRRRRRRRRRRRRR     RRRRRRREEEEEEEEEEEEEEEEEEEEEE        CCCCCCCCCCCCC      TTTTTTTTTTT       !!! 

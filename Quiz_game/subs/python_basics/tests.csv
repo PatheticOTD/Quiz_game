@@ -1,0 +1,3 @@
+ques,ans,rans
+Как вывести привет мир?,1.print "Hello world"_2.Print("Hello world")_3.print("Hello world"),3
+Как работать с ошибками?,1.try exept_2.if else_3.Они вообще появляются,1
